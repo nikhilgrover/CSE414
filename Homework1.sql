@@ -85,7 +85,7 @@ select * from MyRestaurants;
 
 .mode column
 .width 15 15 15 15 15
-select * from MyRestaurants
+select * from MyRestaurants;
 
 --headers off
 .headers off
